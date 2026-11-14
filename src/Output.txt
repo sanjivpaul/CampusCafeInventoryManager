@@ -1,0 +1,161 @@
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Chai
+Price: 20
+Quantity: 10
+Product added successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 1
+Name: Samosa
+Price: 15.5
+Quantity: 10
+Product added successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+
+Product 1
+Name: Chai
+Price: 20.0
+Quantity: 10
+Stock value: 200.0
+
+Product 2
+Name: Samosa
+Price: 15.5
+Quantity: 10
+Stock value: 155.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 3
+Total stock value: 355.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 4
+Average price: 17.75
+Average price (rounded down: 17
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 5
+Product number: 1
+Quantity to add: 5
+Product restocked successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+
+Product 1
+Name: Chai
+Price: 20.0
+Quantity: 15
+Stock value: 300.0
+
+Product 2
+Name: Samosa
+Price: 15.5
+Quantity: 10
+Stock value: 155.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 6
+Product number: 2
+Product duplicated successfully
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 2
+
+Product 1
+Name: Chai
+Price: 20.0
+Quantity: 15
+Stock value: 300.0
+
+Product 2
+Name: Samosa
+Price: 15.5
+Quantity: 10
+Stock value: 155.0
+
+Product 3
+Name: Samosa (copy)
+Price: 15.5
+Quantity: 10
+Stock value: 155.0
+
+--- Campus Cafe Inventory ---
+1. Add product
+2. Display all products
+3. Total stock value
+4. Average price
+5. Restock a product
+6. Duplicate a product
+0. Exit
+Choose: 0
+Goodbye!
+Products created in total: 2
+
+Process finished with exit code 0
